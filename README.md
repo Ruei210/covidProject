@@ -1,1 +1,1 @@
-# covidProject
+# covidout
